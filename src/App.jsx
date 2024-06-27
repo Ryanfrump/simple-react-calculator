@@ -9,7 +9,7 @@ export default function App() {
       </header>
       <Calculator />
       <footer>
-        <p>Created by the grand Inquisitior</p>
+        <p>Created by the Ryan Frump</p>
       </footer>
     </>
   );
