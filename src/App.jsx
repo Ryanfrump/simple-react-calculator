@@ -9,7 +9,7 @@ export default function App() {
       </header>
       <Calculator />
       <footer>
-        <p>Created by the Ryan Frump</p>
+        <p>Create by the Ryan Frump</p>
       </footer>
     </>
   );
